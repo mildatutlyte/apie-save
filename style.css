@@ -1,0 +1,52 @@
+body {
+  margin: 0;
+  background: white;
+  color: #63C5DA;
+  text-align: center;
+  font-size: 13px;
+  font-family: Bitter;
+}
+
+h1 {
+  margin: 0;
+  text-transform: uppercase;
+  font-size: 3em;
+  background: white;
+  font-weight: 700;
+}
+
+h2 {
+  text-transform: capitalize;
+  font-size: 2em;
+  text-shadow: 0 0 1px #e3cdc1;
+  font-weight: 500;
+}
+
+h3
+{
+  text-transform: capitalize;
+  font-size: 1em;
+  text-shadow: 0 0 1px #e3cdc1;
+  font-weight: 500;
+}
+
+P {
+  letter-spacing: 2px;
+  word-spacing: 7px;
+  text-align:justify;
+  padding: 0 10px;
+}
+
+div {
+  padding: 0;
+  margin: 10% 20%;
+  border: 3px solid white;
+  background: black;
+}
+
+img
+{
+  width: 100%;
+  border-bottom: 37.5px solid black;
+  opacity: 0.8;
+}
